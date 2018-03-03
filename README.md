@@ -11,7 +11,7 @@ Welcome to Code Debugging competition
 	Qualifiers of first round will join in for second round which will be disclosed after qualifying. 
 	
 	
-## Rules of contest
+## Rules of Contest
 
 1.) 	Searching, Reffering, helping or getting help and Googling is not allowed during the competition and failing to which the 		competitiors will be disqualified.
 
