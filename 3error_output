@@ -1,0 +1,77 @@
+<~ Expected output for Problem 3.c ~>
+
+
+
+Welcome to Coupon system
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+1
+your coupon number is: 1804289383
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+1
+your coupon number is: 846930886
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+1
+your coupon number is: 1681692777
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+2
+coupon no : 1804289383 please come to counter
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+2
+coupon no : 846930886 please come to counter
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+2
+coupon no : 1681692777 please come to counter
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+2
+coupon no : Queue Underflow
+
+-----Menu-----
+
+Enter yout choice
+1. Get coupon
+2. Call coupon
+3. exit
+3
+
