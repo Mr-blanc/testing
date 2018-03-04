@@ -29,3 +29,9 @@ Welcome to Code Debugging competition
 5.)	The output should match the expected output to Qualify.	
 
 6.)	Judges/Organisers hold all the rights to choose_winner/Qualify/eleminate/Disqualify any contestents. It will be the final decesion 		and can't be questioned
+
+
+##Organizers and Problem contributers
+[Chandrashekar Dasari](https://github.com/chandrasd)
+Kartikeya malimath
+Nithin Kashyap
