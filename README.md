@@ -33,7 +33,5 @@ Welcome to Code Debugging competition
 
 ## Organizers and Problem contributers
 [Chandrashekar Dasari](https://github.com/chandrasd)
-
 Kartikeya malimath
-
 Nithin Kashyap
